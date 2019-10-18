@@ -132,4 +132,4 @@ Sebelum Melakukan clone kita harus membuat ssh key pada device yang kita gunakan
     ```
     `Amati Output pada gitbash`
 ## **Bingung?** tulis bagian yang ingin ditanyakan  [disini](https://github.com/G9Insane/Praktikum-SQA/issues/new)
-[Next Latihan](https://github.com/G9Insane/Praktikum-SQA/Pertemuan-4/Latihan-5.md)
+[Next Latihan](https://github.com/G9Insane/Praktikum-SQA/tree/master/Pertemuan-5/Latihan-5.md)
